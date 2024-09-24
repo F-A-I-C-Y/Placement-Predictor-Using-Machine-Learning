@@ -5,30 +5,30 @@ The placement of students is one of the most important outcomes for any educatio
 Keywords: Placement prediction, machine learning, KNN, Random Forest, AdaBoost, feature selection, hyperparameter tuning.
 
 ## Technologies and Libraries:
-- **Python
-- **Pandas
-- **Matplotlib
-- **Seaborn
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
 
 ## Models (Machine Learning Algorithms):
-- **K-Nearest Neighbors (KNN)
-- **Support Vector Classifier (SVC)
-- **Naive Bayes (GaussianNB)
-- **Decision Tree Classifier
-- **Random Forest Classifier
-- **AdaBoost Classifier
-- **Gradient Boosting Classifier
-- **XGBoost (Extreme Gradient Boosting)
+- K-Nearest Neighbors (KNN)
+- Support Vector Classifier (SVC)
+- Naive Bayes (GaussianNB)
+- Decision Tree Classifier
+- Random Forest Classifier
+- AdaBoost Classifier
+- Gradient Boosting Classifier
+- XGBoost (Extreme Gradient Boosting)
 
 ## Tools for Model Evaluation and Tuning:
-- **Scikit-learn
- - **Classification Report for evaluating the performance of models (precision, recall, F1-score).
- - **Train-Test Split for splitting data into training and testing sets.
- - **GridSearchCV and RandomizedSearchCV for hyperparameter tuning.
+- Scikit-learn
+1. Classification Report for evaluating the performance of models (precision, recall, F1-score).
+2. Train-Test Split for splitting data into training and testing sets.
+3. GridSearchCV and RandomizedSearchCV for hyperparameter tuning.
 
 ## Data Preprocessing Tools:
-- **LabelEncoder - Used to convert categorical variables into numerical values.
+- LabelEncoder - Used to convert categorical variables into numerical values.
 
 ## Visualization Tools:
-- **Matplotlib and Seaborn - Used for creating various types of plots (pie charts, bar plots) to visualize the distribution of features and evaluate model performance.
+- Matplotlib and Seaborn - Used for creating various types of plots (pie charts, bar plots) to visualize the distribution of features and evaluate model performance.
 These technologies, models, and tools form the backbone of the project, allowing for effective data preprocessing, visualization, model building, evaluation, and tuning​
